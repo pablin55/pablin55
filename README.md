@@ -27,5 +27,16 @@ Atualmente estou desenvolvendo novos projetos para expandir meu portfólio, fort
 
 ## 📫 Contato
 
-🔗 LinkedIn:   https://www.linkedin.com/in/juan-pablo-a185b030a/
-📧 Email: alvespablo600@gmail.com
+<p align="center">
+
+<a href="https://www.linkedin.com/in/juan-pablo-a185b030a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Juan_Pablo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:alvespablo600@gmail.com">
+  <img src="https://img.shields.io/badge/Email-alvespablo600@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
