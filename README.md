@@ -1,8 +1,14 @@
-# 👋 Olá, eu sou Juan Pablo
+# 👋 Olá, eu sou Juan Pablo  
 
-💻 **Desenvolvedor Web**  
+💻 **Desenvolvedor Web Full Stack em formação**  
 🎓 Técnico em Informática para Internet  
-📚 Cursando Análise e Desenvolvimento de Sistemas – UEPB (João Pessoa)
+📚 Cursando Análise e Desenvolvimento de Sistemas – UEPB (João Pessoa)  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+em+formação;Criando+aplicações+web+com+PHP+e+Laravel;Foco+em+boas+práticas+e+arquitetura+MVC;Buscando+minha+primeira+oportunidade+como+Dev+Júnior" />
+</p>
 
 ---
 
@@ -17,9 +23,43 @@
 
 ---
 
-## 💼 Experiência com Projetos
+## 💼 Projeto em Destaque
 
-Tenho experiência prática no desenvolvimento de sistemas web utilizando arquitetura **MVC**, autenticação de usuários, controle de acesso e operações **CRUD** integradas a banco de dados relacional (MySQL).
+### 🎓 Sistema de Gestão Escolar
+
+Sistema web desenvolvido com **PHP, Laravel e MySQL**, aplicando arquitetura **MVC** e boas práticas de desenvolvimento.
+
+### 🔹 Funcionalidades:
+
+- Cadastro e gerenciamento de **professores**
+- Cadastro de **alunos**
+- Organização de **turmas**
+- Controle de **disciplinas**
+- Operações **CRUD** completas
+- Autenticação de usuários
+- Controle de acesso por perfil
+
+### 🔹 Conceitos aplicados:
+
+- Modelagem de banco de dados relacional
+- Estruturação de Controllers e Rotas
+- Organização de regras de negócio
+- Integração Backend + Frontend
+- Versionamento com Git
+
+Esse projeto consolidou meus conhecimentos no desenvolvimento de aplicações web estruturadas e funcionais.
+
+---
+
+## 🧠 Experiência Técnica
+
+Tenho experiência prática no desenvolvimento de sistemas web utilizando:
+
+- Arquitetura **MVC**
+- Autenticação e autorização de usuários
+- CRUD integrado ao MySQL
+- Estruturação de projetos com Laravel
+- Versionamento com Git e GitHub
 
 Atualmente estou desenvolvendo novos projetos para expandir meu portfólio, fortalecer minhas habilidades e me manter em constante evolução na área de tecnologia.
 
@@ -38,5 +78,3 @@ Atualmente estou desenvolvendo novos projetos para expandir meu portfólio, fort
 </a>
 
 </p>
-
----
