@@ -25,29 +25,17 @@
 
 ## 💼 Projeto em Destaque
 
-### 🎓 Sistema de Gestão Escolar
+### 🎓 Sistema Web com Laravel
 
-Sistema web desenvolvido com **PHP, Laravel e MySQL**, aplicando arquitetura **MVC** e boas práticas de desenvolvimento.
+Aplicação desenvolvida com arquitetura **MVC**, incluindo:
 
-### 🔹 Funcionalidades:
+- CRUD completo  
+- Autenticação de usuários  
+- Controle de acesso por perfil  
+- Modelagem de banco de dados relacional  
+- Estruturação de rotas e controllers  
 
-- Cadastro e gerenciamento de **professores**
-- Cadastro de **alunos**
-- Organização de **turmas**
-- Controle de **disciplinas**
-- Operações **CRUD** completas
-- Autenticação de usuários
-- Controle de acesso por perfil
-
-### 🔹 Conceitos aplicados:
-
-- Modelagem de banco de dados relacional
-- Estruturação de Controllers e Rotas
-- Organização de regras de negócio
-- Integração Backend + Frontend
-- Versionamento com Git
-
-Esse projeto consolidou meus conhecimentos no desenvolvimento de aplicações web estruturadas e funcionais.
+Projeto focado em boas práticas e organização de código.
 
 ---
 
@@ -73,8 +61,9 @@ Atualmente estou desenvolvendo novos projetos para expandir meu portfólio, fort
   <img src="https://img.shields.io/badge/LinkedIn-Juan_Pablo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:alvespablo600@gmail.com">
-  <img src="https://img.shields.io/badge/Email-alvespablo600@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a>
+  <img src="https://img.shields.io/badge/Copiar_Email-alvespablo600@gmail.com-24292F?style=for-the-badge&logo=maildotru&logoColor=white"/>
 </a>
 
 </p>
+
